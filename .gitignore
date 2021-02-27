@@ -6,5 +6,8 @@
 *.ear
 *.logs
 *.iml
+.settings/
+.project
+.classpath
 .idea/
 .eclipse
